@@ -3,7 +3,7 @@ Free python generator for generation of test data for databases
 
 ### Using
   1. Clone repository
-  2. Open file "sqlserver-data-generator" 
+  2. Open file "sqlserver-data-generator.py" 
   3. Set values for the following variables in MAIN block: 
     - server_name
     - db_name
